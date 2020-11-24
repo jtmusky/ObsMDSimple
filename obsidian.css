@@ -1,0 +1,27 @@
+body {
+  font-size: 13px;
+  font-family: Source Code Pro, Fira Code, monospace;
+  --font-monospace: Source Code Pro, Fira Code, monospace;
+}
+.CodeMirror pre.CodeMirror-line {
+  font-size: 13px;
+  font-family: Source Code Pro, Fira Code, monospace;
+}
+
+.markdown-source-view { 
+  font-family: Source Code Pro, Fira Code, monospace;
+}
+
+.cm-header-1 {
+  font-size: 13px;
+}
+.cm-header-2 {
+  font-size: 13px;
+}
+.cm-header-3 {
+  font-size: 13px;
+}
+
+.cm-s-obsidian pre.HyperMD-header {
+   padding-bottom: 0px; 
+}
